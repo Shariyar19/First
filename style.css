@@ -1,0 +1,66 @@
+footer{
+
+    background-color: rgba(0, 0, 0, 0.877);
+    font-family: 'Times New Roman', Times, serif;
+    
+    
+   
+    
+}
+
+
+
+#banner{
+
+    background-image:url(https://t3.ftcdn.net/jpg/05/09/64/26/360_F_509642664_iJnbo6Nbv8WDn29YkIXToqT0FAyyxgDD.jpg) ;
+    background-size: cover;
+    background-position-y: center;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+#facility{
+
+background-color: rgb(188, 188, 188);
+font-family: 'Times New Roman', Times, serif;
+}
+
+.nav-item .nav-link{
+
+    color: aliceblue;
+}
+
+.navbar-brand{
+    color: aliceblue;
+}
+
+#box1 li{
+list-style-type: none;
+font-family: cursive;
+
+}
+
+#box13 li .instagram{
+    height: 20px;
+
+}
+
+.hover1{
+    transition-duration: 2s;
+}
+
+.hover1:hover{
+border: 2px solid rgb(82, 82, 82);
+box-shadow: 5px 5px 10px 7px rgb(82, 81, 81);
+
+
+}
+
+#paragh1{
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-family:'Times New Roman', Times, serif;
+}
+
+
+
